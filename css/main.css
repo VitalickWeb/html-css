@@ -30,7 +30,7 @@ body .wrapper .content .content_circle {
   animation-fill-mode: forwards;
 }
 body .wrapper .content:hover .content_circle {
-  background-color: aqua;
+  background-color: #444;
   transition: all 3s ease-in-out;
 }
 body .wrapper .content .text {
